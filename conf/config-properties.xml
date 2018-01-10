@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+
+
+    <entry key="url">http://www.mercadolibre.com.ar</entry>
+    <entry key="browser">chrome</entry>
+    <entry key="os">mac</entry>
+    <entry key="timeOut">25000</entry>
+    <entry key=""></entry>
+
+
+
+
+
+</properties>
